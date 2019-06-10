@@ -1,4 +1,4 @@
 # betting-calculator
-petrol pump repo
+betting calculator repo
 
 First iteration of the new calculator tool.
